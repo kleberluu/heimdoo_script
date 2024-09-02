@@ -1,6 +1,6 @@
 # heimdallscript
 
-a python script to generate the command needed to install stock rom on samsung devices using heimdoo
+a python script to generate the command needed to install stock rom on samsung devices using heimdall
 
 
 ______________________________
