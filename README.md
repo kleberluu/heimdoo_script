@@ -19,8 +19,11 @@ $ pkg install python
 
 2 - Extract all the files from the ROM and put them in a single folder!
 
+
 Change rom directory in the script
+
 folder_path = '/storage/emulated/0/'
+
 
 $ python heimdall-script.py
 
