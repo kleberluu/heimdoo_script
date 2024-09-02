@@ -3,7 +3,8 @@
 a python script to generate the command needed to install stock rom on samsung devices using heimdoo
 
 Tested on:
-~ A23 4g A235M/DS
+
+A23 4g A235M/DS
 
 ______________________________
 
@@ -12,6 +13,7 @@ ______________________________
 1 - First install TERMUX app and Python
 
 $ termux-setup-storage
+
 $ pkg install python
 
 
