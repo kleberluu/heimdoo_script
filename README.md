@@ -1,2 +1,3 @@
 # heimdallscript
-A python script to help install stock rom using heimdall
+A python script to generate the command and install stock rom using heimdall
+
