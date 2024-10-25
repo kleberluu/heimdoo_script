@@ -13,7 +13,7 @@ $ termux-setup-storage
 $ pkg install python
 
 
-## Extrair todos arquivos da stock-rom incluindo os arquivos md5, e colocar em uma única pasta
+### Extrair todos arquivos da stock-rom incluindo os arquivos md5, e colocar em uma única pasta
 
 
 Adicionar o caminho no script 
