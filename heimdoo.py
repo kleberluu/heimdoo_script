@@ -1,12 +1,12 @@
 import os
 
-# You need extract all files from the rom and put them in a single folder
+# Pasta da stock-rom
 folder_path = '/storage/emulated/0/Download/'
 
 commands = []
 first_command = True
 
-# Dictionary to map specific filenames!!
+# Identificar Arquivos | Entradas
 specific_files = {
 
     "NON-HLOS.bin": "APNHLOS",
@@ -19,7 +19,6 @@ specific_files = {
     "tz_iccc.mbn": "TZICCC",
     "tz_hdm.mbn": "HDM",
     
-    # Add more "filename: PARTITION" pairs as needed
 }
 
 for filename in os.listdir(folder_path):
