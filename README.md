@@ -1,29 +1,24 @@
-# heimdallscript
+# heimdoo script
 
-a python script to generate the command needed to install stock rom on samsung devices using heimdall
-
+Script em python para gerar o comando de instalação da stock rom usando o app heimdoo
 
 ______________________________
 
-# USING THE SCRIPT
+## Usando o script
 
-1 - First install TERMUX app and Python
+Instalar o **Termux** e o **Python** 
 
 $ termux-setup-storage
 
 $ pkg install python
 
 
+## Extrair todos arquivos da stock-rom incluindo os arquivos md5, e colocar em uma única pasta
 
 
-2 - Extract all the files from the ROM and put them in a single folder!
-
-
-Change rom directory in the script
+Adicionar o caminho no script 
 
 folder_path = '/storage/emulated/0/'
 
 
 $ python heimdall-script.py
-
-By @Kleberluu💚
